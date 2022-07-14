@@ -20,3 +20,7 @@
 - [TDesign 组件库技术方案指北](https://mp.weixin.qq.com/s?__biz=Mzg3MjYwODA1OA==&mid=2247515208&idx=1&sn=166d4a5313cadbb80d2a401edf46b455)
 
 腾讯设计 TDesign [文章合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3MjYwODA1OA==&action=getalbum&album_id=2416359157676523521)
+
+## 视频教程
+
+- [用腾讯TDesign框架做一个管理系统(Vue3)版](https://www.bilibili.com/video/BV1MZ4y1Q7zu?spm_id_from=333.999.0.0&vd_source=94df280d25d542fbcfaf851754a254de)
